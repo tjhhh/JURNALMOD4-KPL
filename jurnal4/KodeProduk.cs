@@ -9,7 +9,6 @@ namespace jurnal4
     class KodeProduk
     {
 
-
         private Dictionary<string, string> kodeProduk = new Dictionary<string, string> {
         {"Laptop", "E100"},
         {"Smartphone", "E101"},
